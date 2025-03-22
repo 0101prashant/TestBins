@@ -1,12 +1,14 @@
 [
     {
-        "name":"App",
+        "name":"Test Application1",
         "version": "0001",
-        "path": "ECMTesterApp.bin"
+        "path": "ECMTesterApp.bin",
+        "release":"03-15-2025"
     },
     {
-        "name":"App2",
+        "name":"Test Application2",
         "version": "0002",
-        "path": "ECMTesterApp2.bin"
+        "path": "ECMTesterApp2.bin",
+        "release":"03-16-2025"
     }
 ]
